@@ -83,7 +83,8 @@
                     "WebUI": [
                         "developer/webui/webui_frontend_vscode_dev_env",
                         "developer/webui/streamedtables",
-                        "developer/webui/webui_frontend"
+                        "developer/webui/webui_frontend",
+                        "developer/webui/webui_design_decisions"
                     ]
                 }
             ],

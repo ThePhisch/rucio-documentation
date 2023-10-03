@@ -579,8 +579,7 @@ Errors for the time being.
 
 :::
 
-<!-- ## Design decisions
 
 ## Components
 
-## Folder structure -->
+## Folder structure
